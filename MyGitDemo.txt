@@ -10,4 +10,4 @@ with new commit
 
 with another new commit 
 
-
+After merge of branch and master
