@@ -4,3 +4,6 @@ this is the first commit!
 
 and a second commit!
 
+
+Test of second branch
+with new commit
