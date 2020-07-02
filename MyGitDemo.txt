@@ -1,0 +1,22 @@
+Test GIT with demo file:
+
+this is the first commit!
+
+and a second commit!
+
+
+Test of second branch
+with new commit
+
+with another new commit 
+
+After merge of branch and master
+
+
+modification in master
+
+start of third branch
+
+New mod to master
+another mod to master
+
