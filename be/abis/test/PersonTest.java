@@ -17,7 +17,7 @@ class PersonTest {
 
     @Test
     void getFirstName() {
-        assertEquals("Peter", ptest.getFirstName(), "no: it is not him but his brother");
+        assertEquals("James", ptest.getFirstName(), "no: it is not him but his brother");
     }
 
     @Test
